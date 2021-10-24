@@ -1,0 +1,19 @@
+.banner{
+    background-color: #4D00ff;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px 0;
+}
+#small_gritty{
+   height: 100px;
+   width: 100px; 
+}
+#gritty{
+    color: #e68020ed;
+    font-size: 100px;
+}
+
+.bold{
+    font-weight: 900;
+}
